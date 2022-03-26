@@ -83,7 +83,7 @@ background: darkgrey;
 
 /* Showcase */
 #showcase {
-  background: url('../images/LenaRomul.png') no-repeat center center/cover;
+  background: url('../LenaRomul.png') no-repeat center center/cover;
   height: 600px;
 }
 
